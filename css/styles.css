@@ -249,7 +249,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office\.jpg);
+    url(../images/initial/people-office-mob-min.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 320px;
@@ -301,7 +301,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/people-office.jpg);
+      url(../images/initial/people-office-tap-min.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 768px;
@@ -348,7 +348,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/people-office.jpg);
+      url(../images/initial/people-office-desk-min.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 1440px;
